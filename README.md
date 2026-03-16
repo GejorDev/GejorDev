@@ -11,9 +11,8 @@ Full Stack developer building things with **React**, **Next.js**, **TypeScript**
 ## 🚀 What I do
 
 - ⚛️ React & Next.js frontends
-- 🐍 FastAPI backends
+- 🐍 FastAPI, Java backends
 - 🔧 Full-stack development
-- 📊 Data & ML projects
 
 ---
 
