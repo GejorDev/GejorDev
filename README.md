@@ -34,9 +34,9 @@ Full Stack developer building web apps with **React**, **Next.js**, **TypeScript
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgediegoalonso&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GejorDev&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgediegoalonso&theme=dark&hide_border=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GejorDev&theme=dark&hide_border=true&show_icons=true)
 
 </div>
 
