@@ -33,4 +33,3 @@ Full Stack developer building things with **React**, **Next.js**, **TypeScript**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jorge-diego-alonso)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:jorgediegoalonso12@gmail.com)
-[![Portfolio](#) ]
