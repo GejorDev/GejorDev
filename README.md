@@ -30,18 +30,6 @@ Full Stack developer building web apps with **React**, **Next.js**, **TypeScript
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GejorDev&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GejorDev&theme=dark&hide_border=true&show_icons=true)
-
-</div>
-
----
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jorge-diego-alonso)
