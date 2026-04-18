@@ -2,9 +2,7 @@
 
 Full Stack developer building web apps with **React**, **Next.js**, **TypeScript**, **FastAPI** and **Java**. I enjoy solving problems and shipping code that works.
 
-```
 📍 Galicia, Spain  •  💻 Full Stack Developer  •  🚀 Always learning
-```
 
 ---
 
